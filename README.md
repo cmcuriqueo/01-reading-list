@@ -22,3 +22,6 @@ pnpm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Ref [Prueba 01-reading-list](https://github.com/midudev/pruebas-tecnicas/blob/main/pruebas/01-reading-list/README.md)
